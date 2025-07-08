@@ -189,20 +189,6 @@ const projects = [
     image: Ecommerce,
     source_code_link: "https://github.com/satyam969/E-Commerce",
   },
-  {
-    name: "Knowledge Sharing Platform",
-    description:
-      "Q&A-style community platform for posting questions, answering, commenting, and discussing technical topics. Built with MERN stack and secure token-based auth.",
-    tags: [
-      { name: "React", color: "blue-text-gradient" },
-      { name: "CSS", color: "pink-text-gradient" },
-      { name: "MongoDB", color: "green-text-gradient" },
-      { name: "Express.js", color: "blue-text-gradient" },
-      { name: "JWT", color: "orange-text-gradient" },
-    ],
-    image: Knowledgeplatform,
-    source_code_link: "https://github.com/satyam969/SummerDev",
-  },
 ];
 
   
