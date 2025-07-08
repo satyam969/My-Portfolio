@@ -24,9 +24,9 @@ import {
     Chatapp,
     Knowledgeplatform,
   } from "../assets";
-import CollabAI from "./assets/collab-ai.png";
-import SafeGuard from "./assets/safeguard.png";
-import InterviewAI from "./assets/interview-ai.png";
+import CollabAI from "../assets/collab-ai.png";
+import SafeGuard from "../assets/safeguard.png";
+import InterviewAI from "../assets/interview-ai.png";
 
   export const navLinks = [
     {
